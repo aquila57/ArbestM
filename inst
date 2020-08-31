@@ -1,0 +1,7 @@
+#!/bin/bash
+javac HelloWorld.java
+javac HelloErr.java
+javac HiName.java
+javac HelloXTen.java
+javac UseThree.java
+javac Initials.java

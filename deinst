@@ -1,0 +1,7 @@
+#!/bin/bash
+rm -f HelloWorld.class
+rm -f HiName.class
+rm -f HelloXTen.java
+rm -f UseThree.java
+rm -f Initials.class
+rm -f HelloErr.class
